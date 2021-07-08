@@ -10,7 +10,7 @@
     "format": "prettier --write '{.,test}/*.js'"
   },
   "dependencies": {
-    "@hyperapp-r/events": "0.0.4",
+    "@hyperapp-r/events": "0.0.3-rc2",
     "@hyperapp/http": "0.0.2",
     "chart.js": "2.9.3",
     "classcat": "4.0.2",
